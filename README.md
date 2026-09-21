@@ -28,8 +28,3 @@ For this project, I used Langgraph, Qdrant as the VectorDB. This agent is advanc
 
 `npm run dev`
 
-
-If you have any feedback, please reach out to us on Linkedin: 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](
-https://www.linkedin.com/in/s%C3%A9bastien-doyez-042604252/)
-
